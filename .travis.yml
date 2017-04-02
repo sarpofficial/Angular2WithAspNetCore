@@ -1,5 +1,5 @@
 language: csharp
-solution: ./Angular2WithAspNetCore.sln
+solution: ./Angular2WithAspNetCore/Angular2WithAspNetCore.sln
 dist: trusty
 notifications:
   email: false
@@ -13,7 +13,7 @@ before_install:
   - "npm install -g gulp@^3"
   - pip install --user codecov
 install:
-  - dotnet restore Angular2WithAspNetCore.sln
+  - dotnet restore ./Angular2WithAspNetCore/Angular2WithAspNetCore.sln
   - npm install
 sudo: required
 mono: none
