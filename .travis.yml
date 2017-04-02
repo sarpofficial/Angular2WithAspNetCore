@@ -1,5 +1,8 @@
 language: csharp
 solution: ./Angular2WithAspNetCore/Angular2WithAspNetCore.sln
+env:
+  global:
+    - CODECOV_TOKEN=:399ca44f-7822-420b-a9a7-4bcea20f4b6b
 dist: trusty
 notifications:
   email: false
