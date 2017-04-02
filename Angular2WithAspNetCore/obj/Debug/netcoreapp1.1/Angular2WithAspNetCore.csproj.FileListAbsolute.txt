@@ -1,0 +1,27 @@
+C:\Users\Fatih Türker\Documents\Visual Studio 2017\Projects\Angular2WithAspNetCore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.deps.json
+C:\Users\Fatih Türker\Documents\Visual Studio 2017\Projects\Angular2WithAspNetCore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.runtimeconfig.json
+C:\Users\Fatih Türker\Documents\Visual Studio 2017\Projects\Angular2WithAspNetCore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.runtimeconfig.dev.json
+C:\Users\Fatih Türker\Documents\Visual Studio 2017\Projects\Angular2WithAspNetCore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.dll
+C:\Users\Fatih Türker\Documents\Visual Studio 2017\Projects\Angular2WithAspNetCore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.pdb
+C:\Users\Fatih Türker\Documents\Visual Studio 2017\Projects\Angular2WithAspNetCore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.csprojResolveAssemblyReference.cache
+C:\Users\Fatih Türker\Documents\Visual Studio 2017\Projects\Angular2WithAspNetCore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.AssemblyInfo.cs
+C:\Users\Fatih Türker\Documents\Visual Studio 2017\Projects\Angular2WithAspNetCore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.dll
+C:\Users\Fatih Türker\Documents\Visual Studio 2017\Projects\Angular2WithAspNetCore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.pdb
+C:\Users\Fatih Türker\Desktop\angular2withaspnetcore\Angular2WithAspNetCore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.deps.json
+C:\Users\Fatih Türker\Desktop\angular2withaspnetcore\Angular2WithAspNetCore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.runtimeconfig.json
+C:\Users\Fatih Türker\Desktop\angular2withaspnetcore\Angular2WithAspNetCore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.runtimeconfig.dev.json
+C:\Users\Fatih Türker\Desktop\angular2withaspnetcore\Angular2WithAspNetCore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.dll
+C:\Users\Fatih Türker\Desktop\angular2withaspnetcore\Angular2WithAspNetCore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.pdb
+C:\Users\Fatih Türker\Desktop\angular2withaspnetcore\Angular2WithAspNetCore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.csprojResolveAssemblyReference.cache
+C:\Users\Fatih Türker\Desktop\angular2withaspnetcore\Angular2WithAspNetCore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.AssemblyInfo.cs
+C:\Users\Fatih Türker\Desktop\angular2withaspnetcore\Angular2WithAspNetCore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.dll
+C:\Users\Fatih Türker\Desktop\angular2withaspnetcore\Angular2WithAspNetCore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.pdb
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.deps.json
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.runtimeconfig.json
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.runtimeconfig.dev.json
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.dll
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.pdb
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.AssemblyInfo.cs
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.dll
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.pdb
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.csprojResolveAssemblyReference.cache

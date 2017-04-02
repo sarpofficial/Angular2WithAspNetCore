@@ -9944,10 +9944,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fatih Türker\\Documents\\GitHub\\fatihturker\\angular2withaspnetcore\\Angular2WithAspNetCore.Tests\\Angular2WithAspNetCore.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Fatih Türker\\Documents\\GitHub\\fatihturker\\Angular2WithAspNetCore\\Angular2WithAspNetCore.Tests\\Angular2WithAspNetCore.Tests.csproj",
       "projectName": "Angular2WithAspNetCore.Tests",
-      "projectPath": "C:\\Users\\Fatih Türker\\Documents\\GitHub\\fatihturker\\angular2withaspnetcore\\Angular2WithAspNetCore.Tests\\Angular2WithAspNetCore.Tests.csproj",
-      "outputPath": "C:\\Users\\Fatih Türker\\Documents\\GitHub\\fatihturker\\angular2withaspnetcore\\Angular2WithAspNetCore.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Fatih Türker\\Documents\\GitHub\\fatihturker\\Angular2WithAspNetCore\\Angular2WithAspNetCore.Tests\\Angular2WithAspNetCore.Tests.csproj",
+      "outputPath": "C:\\Users\\Fatih Türker\\Documents\\GitHub\\fatihturker\\Angular2WithAspNetCore\\Angular2WithAspNetCore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -9955,8 +9955,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\Fatih Türker\\Documents\\GitHub\\fatihturker\\angular2withaspnetcore\\Angular2WithAspNetCore\\Angular2WithAspNetCore.csproj": {
-              "projectPath": "C:\\Users\\Fatih Türker\\Documents\\GitHub\\fatihturker\\angular2withaspnetcore\\Angular2WithAspNetCore\\Angular2WithAspNetCore.csproj"
+            "C:\\Users\\Fatih Türker\\Documents\\GitHub\\fatihturker\\Angular2WithAspNetCore\\Angular2WithAspNetCore\\Angular2WithAspNetCore.csproj": {
+              "projectPath": "C:\\Users\\Fatih Türker\\Documents\\GitHub\\fatihturker\\Angular2WithAspNetCore\\Angular2WithAspNetCore\\Angular2WithAspNetCore.csproj"
             }
           }
         }

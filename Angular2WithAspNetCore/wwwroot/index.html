@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Angular 2 with ASP.NET Core</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="node_modules/core-js/shim.min.js"></script>
+
+    <script src="node_modules/zone.js/zone.js"></script>
+    <script src="node_modules/reflect-metadata/reflect.js"></script>
+    <script src="node_modules/systemjs/system.src.js"></script>
+
+    <script src="system.config.js"></script>
+    <script>
+        System.import('app').catch(function(err){ console.error(err); });
+    </script>
+</head>
+<!-- Binding app component -->
+<body>
+    <app-component>Loading angular app-component here..</app-component>
+</body>
+</html>
