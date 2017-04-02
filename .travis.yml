@@ -11,7 +11,7 @@ before_install:
   - "npm config set spin false"
   - "npm install -g npm@^3"
   - "npm install -g gulp@^3"
-  - pip install --user codecov
+  - pip install
 install:
   - dotnet restore ./Angular2WithAspNetCore/Angular2WithAspNetCore.sln
   - npm install
