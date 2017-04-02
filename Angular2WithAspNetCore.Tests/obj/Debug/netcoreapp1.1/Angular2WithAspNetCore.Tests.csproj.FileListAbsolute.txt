@@ -1,0 +1,14 @@
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.Tests.deps.json
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.Tests.runtimeconfig.json
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.Tests.runtimeconfig.dev.json
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.Tests.dll
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.Tests.pdb
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.Tests.AssemblyInfo.cs
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.Tests.dll
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\obj\Debug\netcoreapp1.1\Angular2WithAspNetCore.Tests.pdb
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.dll
+C:\Users\Fatih Türker\Documents\GitHub\fatihturker\angular2withaspnetcore\Angular2WithAspNetCore.Tests\bin\Debug\netcoreapp1.1\Angular2WithAspNetCore.pdb

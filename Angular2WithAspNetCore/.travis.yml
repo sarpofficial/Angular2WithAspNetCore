@@ -1,0 +1,24 @@
+language: csharp
+solution: ./Angular2WithAspNetCore.sln
+dist: trusty
+notifications:
+  email: false
+cache:
+  directories:
+    - node_modules
+before_install:
+  - chmod +x build.sh
+  - "npm config set spin false"
+  - "npm install -g npm@^3"
+  - "npm install -g gulp@^3"
+  - pip install --user codecov
+install:
+  - dotnet restore Angular2WithAspNetCore.sln
+  - npm install
+sudo: required
+mono: none
+dotnet: 1.0.1
+script:
+  - ./build.sh
+after_success:
+  - codecov
