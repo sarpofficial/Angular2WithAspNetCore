@@ -22,5 +22,3 @@ script:
   - ./build.sh
 after_success:
   - codecov
-  - ".\Angular2WithAspNetCore\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\Angular2WithAspNetCore.Tests\bin\Debug\netcoreapp1.1\bin\Debug\Angular2WithAspNetCore.Tests.dll" 
-  
