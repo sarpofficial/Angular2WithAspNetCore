@@ -21,6 +21,6 @@ dotnet: 1.0.1
 script:
   - ./build.sh
 after_success:
+  - curl --data-binary @codecov.yml https://codecov.io/validate
   - codecov
-  - bash <(curl -s https://codecov.io/bash)
   
