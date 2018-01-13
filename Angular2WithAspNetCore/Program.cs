@@ -18,6 +18,7 @@ namespace Angular2WithAspNetCore
                 .UseStartup<Startup>()
                 .UseApplicationInsights()
                 .Build();
+                //test
 
             host.Run();
         }
